@@ -1,4 +1,3 @@
-# ML MODELS
 # Personalized AI Companion
 
 ## Overview
